@@ -23,4 +23,4 @@ Then run **animal-classify-VGG16** file
 ***
 ## Team Members
 1) **[Naligala Rahul Karthik](https://github.com/Bobby289)**
-2) **[Samarla Prabas](https://github.com/Prabhas777)**
+2) **[Sama Prabhas Vardhan Reddy](https://github.com/Prabhas777)**
